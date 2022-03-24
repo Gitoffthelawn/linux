@@ -1,6 +1,6 @@
 .. _readme:
 
-Linux kernel release 5.x <http://kernel.org/>
+Linux kernel release 5.x <https://kernel.org/>
 =============================================
 
 These are the release notes for Linux version 5.  Read them carefully,
